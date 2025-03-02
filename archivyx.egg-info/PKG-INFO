@@ -1,0 +1,45 @@
+Metadata-Version: 2.2
+Name: archivyx
+Version: 0.1
+Summary: A powerful collection of utilities for terminal applications.
+Home-page: https://github.com/CyberBeast1/archivyx
+Author: Cyber
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENCE.md
+Requires-Dist: rich
+Requires-Dist: keyboard
+Dynamic: author
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# ![Archivyx](assets/archivyx.svg)
+# 🏛️ Archivyx – The Grand Library of Utilities
+
+> **A growing vault of essential tools, utilities, and CLI magic** 🔮  
+
+Archivyx is your **all-in-one Python utility package**. Designed to hold **everything useful**, 
+it contains interactive CLI tools, helper functions, and **anything else that makes coding easier**.
+
+---
+
+## ✨ Features  
+✅ **Interactive CLI prompts** (Vertical & Horizontal selections)  
+✅ **Rich-powered text formatting** 🖋️  
+✅ **Utility functions for common tasks**  
+✅ **Modular & Expandable** – More features will be added as the library grows  
+
+---
+
+## 📦 Installation
+```sh
+pip install archivyx
+```
